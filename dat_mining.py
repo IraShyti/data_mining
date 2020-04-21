@@ -10,7 +10,7 @@ MINING CHROMIUM REPOSITORY USING PYTHON
 14.05.2016
 IRA SHYTI
 ****'''
-accounts = {"social": '95a5b5a8a29b5144ff088c657410f6f87f525c73',}
+accounts = {"social": '',}
 
 token = accounts["social"]
 client = github.Github(token, per_page=100)
